@@ -1,0 +1,27 @@
+﻿virus,accession,isolate,host,country,adm1,adm2,,collection_date,,reference
+NiV,AY988601,NV-B,human,Bangladesh,Dhaka,Rajbari,,2004-02,,10.3201/eid1110.050513
+NiV,JN808857,NIVBGD2008MANIKGONJ,human,Bangladesh,,Manikgonj,,2008-02,,10.3201/eid1802.111492
+NiV,JN808863,NiV/BD/HU/2008/RA,human,Bangladesh,,Rajbari ,,2008-02,,10.3201/eid1802.111492
+NiV,FJ513078,Ind-Nipah-07-FG,human,India,West Bengal,Nadia,,2007-04,,10.3201/eid1705.100968
+NiV,AJ564622,NV/MY/99/VRI-1413,pig,Malaysia,,,,"""1999""",,10.3201/eid1012.040452
+NiV,AJ564623,NV/MY/99/UM-0128,human,Malaysia,,Seremban,,1999-04,,10.3201/eid1012.040452
+NiV,AJ627196,NV/MY/99/VRI-0626,pig,Malaysia,,,,"""1999""",,10.3201/eid1012.040452
+NiV,AJ564621,NV/MY/99/VRI-2794,pig,Malaysia,,,,"""1999""",,10.3201/eid1012.040452
+NiV,AF212302,Nipah,human,Malaysia,Negeri Sembilan,,Sungai Nipah village,1999-03,same as UM-0128?,10.1126/science.288.5470.1432
+NiV,AY029767,UMMC1,human,Malaysia,,,,1999-03,,10.1099/0022-1317-82-9-2151
+NiV,MH523642,MCL-18-H-1088,human,India,Kerala,Kozhikode,,2018-04-17,,
+NiV,MH396625,MCL-18-H-1088,human,India,Kerala,Kozhikode,,2018-05-17,,
+NiV,JN808864,NIVBGD2010FARIDPUR,human,Bangladesh,,Faridpur,,2010-,,10.3201/eid1802.111492
+NiV,MH523640,MCL-18-H-1197,human,India,Kerala,Kozhikode,,2018-04-17,,
+NiV,MH523641,MCL-18-H-1209,human,India,Kerala,Kozhikode,,2018-05-17,,
+,,,,,,,,,,
+HeV,AF017149,Hendra,horse,Australia,Brisbane,Hendra,,1994-09,,10.1128/jvi.74.21.9972-9979.2000
+HeV,HM044317,Redlands,horse,Australia,,,,2008-07,,
+HeV,JN255806,Cawarral,horse,Australia,,,,2009-08,,
+HeV,JN255804,Clifton Beach Q,horse,Australia,,,,2007-07,,
+HeV,HM044321,CliftonBeach,horse,Australia,,,,2007-07,,
+HeV,JN255803,CedarGrove 11c,bat,Australia,,,,2009-08-05,,
+HeV,JN255800,Yeppoon Y47a,bat,Australia,,,,2009-08-15,,
+HeV,HM044320,Proserpine,horse,Australia,,,,2008-07,,
+HeV,HM044319,Peachester,horse,Australia,,,,2007-06,,
+HeV,HM044318,Murwillumbah,horse,Australia,,,,2006-10,,
